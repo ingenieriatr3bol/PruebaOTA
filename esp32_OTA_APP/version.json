@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://raw.githubusercontent.com/ingenieriatr3bol/PruebaOTA/main/esp32_OTA_APP/PruebaOTA.ino.bin",
   "notes": "Corrección de reconexión WiFi y mejoras OTA"
 }
